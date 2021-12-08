@@ -404,7 +404,7 @@ namespace Medical_Clinic
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1227, 616);
+            this.ClientSize = new System.Drawing.Size(1217, 611);
             this.Controls.Add(this.simpleButton11);
             this.Controls.Add(this.simpleButton10);
             this.Controls.Add(this.simpleButton9);

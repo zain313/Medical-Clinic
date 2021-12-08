@@ -36,5 +36,15 @@ namespace Medical_Clinic
             Frm_drugs frm = new Frm_drugs();
             frm.ShowDialog();
         }
+
+        private void barButtonItem14_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+
+        }
+
+        private void barButtonItem15_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+
+        }
     }
 }
